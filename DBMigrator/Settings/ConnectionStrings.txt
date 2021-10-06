@@ -1,0 +1,1 @@
+{"maria":"server=localhost; user=root; database=users; password=password;","postgres":"Host=localhost; User Id=postgres; Password=password; Port=5432; Database=postgres;"}
